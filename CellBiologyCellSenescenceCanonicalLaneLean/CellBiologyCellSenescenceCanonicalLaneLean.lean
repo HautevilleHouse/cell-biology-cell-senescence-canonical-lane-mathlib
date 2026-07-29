@@ -1,0 +1,20 @@
+import HautevilleHouse.CellBiologyCellSenescenceCanonicalLaneLean.AdmissibleClass
+import HautevilleHouse.CellBiologyCellSenescenceCanonicalLaneLean.BridgeLemmas
+import HautevilleHouse.CellBiologyCellSenescenceCanonicalLaneLean.GateLemmas
+import HautevilleHouse.CellBiologyCellSenescenceCanonicalLaneLean.FinalTheorem
+import HautevilleHouse.CellBiologyCellSenescenceCanonicalLaneLean.SenescenceMechanisms
+import HautevilleHouse.CellBiologyCellSenescenceCanonicalLaneLean.SenescenceEntropy
+import HautevilleHouse.CellBiologyCellSenescenceCanonicalLaneLean.SenescenceRoute
+
+/-!
+# Cell Biology Cell Senescence Canonical Lane Lean
+Root module for the cell senescence canonical knowledge domain.
+-/
+
+namespace HautevilleHouse
+namespace CellBiologyCellSenescenceCanonicalLaneLean
+
+-- No additional definitions; root module solely imports submodules.
+
+end CellBiologyCellSenescenceCanonicalLaneLean
+end HautevilleHouse
